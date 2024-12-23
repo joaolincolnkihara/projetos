@@ -47,3 +47,7 @@ header{
     padding: 10px;
     cursor: pointer;
 }
+
+#fechar{
+    display: none;
+}
